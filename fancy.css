@@ -5,3 +5,16 @@ h1{
 h2{
     color:darkslateblue
 }
+
+div{
+    display: flex;
+    align-self: baseline;
+
+    
+}
+
+#acc{
+    display:flex;
+    align-items: center;
+    
+}
